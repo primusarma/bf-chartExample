@@ -1,0 +1,9 @@
+.DS_Store
+node_modules
+bower_components
+svgstyle.html
+.sass-cache
+.idea
+_site
+test/coverage
+npm-debug.log
